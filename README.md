@@ -2,7 +2,7 @@
 
 Camel Bot is a trading strategy that determines instances which it is profitible to enter or exit a trade.
 
-### Established rules of strategy
+### Established rules
 __1.__ We assume that the price of Bitcoin will be worth (p)r more than it is today, where r is the discount rate and p is the price per 1 bitcoin. We cam express this as a geometric sequence.
 __(p)r + (p)r^2 + (p)r^3 + . . . + (p)r^n__ 
 
